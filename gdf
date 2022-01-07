@@ -66,7 +66,7 @@ ImageLabel.BackgroundColor3 = Color3.fromRGB(255, 255, 255)
 ImageLabel.BackgroundTransparency = 1.000
 ImageLabel.Position = UDim2.new(0.586292446, 0, 0.931634784, 0)
 ImageLabel.Size = UDim2.new(0, 94, 0, 17)
-ImageLabel.Image = "http://www.roblox.com/asset/?id=7582544082"
+ImageLabel.Image = "http://www.roblox.com/asset/?id=8476348446"
 ImageLabel.ScaleType = Enum.ScaleType.Crop
 
 UIGradient_2.Color = ColorSequence.new{ColorSequenceKeypoint.new(0.00, Color3.fromRGB(144, 144, 144)), ColorSequenceKeypoint.new(1.00, Color3.fromRGB(255, 255, 255))}
